@@ -1,0 +1,30 @@
+table,
+thead,
+tbody,
+tr,
+th,
+td {
+    border: 1px solid black;
+    border-collapse: collapse;
+    padding: 5px;
+    margin: 4px;
+    text-align: center;
+    width: 30%;
+}
+
+th {
+    background-color: yellow;
+}
+
+td {
+    padding: 10px;
+}
+
+.Home {
+    background-color: #ffbec8;
+    padding: 50px;
+}
+
+.Time {
+    background: #d1d1d1;
+}
